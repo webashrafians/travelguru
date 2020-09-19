@@ -1,0 +1,25 @@
+.home-page-area{
+    display: flex;
+}
+.home-page-image{
+    width: 60%;
+    margin: 100px 10px;
+}
+.home-page-description{
+    width: 40%;
+}
+img{
+    display: block;
+}
+.home-page-image{
+    color: salmon;
+}
+.home-page-description{
+    margin: 200px 50px;
+    color: blue;
+    font-size : 20px;
+
+}
+.caption{
+    margin-top: 20px;
+}

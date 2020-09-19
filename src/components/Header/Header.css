@@ -1,0 +1,72 @@
+.login-button{
+    background-color: goldenrod;
+}
+
+.navigation{
+    display:flex;
+    justify-content:space-between;
+    width: 80%;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.makeStyles-search-4 {
+    float: left;
+}
+
+.makeStyles-search-4 {}
+
+.serachstyle a {
+    margin-left: 20px;
+    font-size: 20px;
+    color: #fff;
+}
+
+
+#root .center {
+    position: absolute;
+    background-color: transparent;
+    opacity: .75;
+}
+
+header {
+    background-color: transparent;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.main-area {
+    position: relative;
+    z-index: 1;
+}
+
+.main-area:before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    content: "";
+    background-color: rgba(0,0,0,0.75);
+    z-index: -1;
+}
+
+header .MuiToolbar-root.MuiToolbar-regular.MuiToolbar-gutters {
+    position: absolute;
+    z-index: 999;
+    width: 100%;
+    top: 25px;
+    margin-bottom: 50px;
+}
+
+.main-area .home-page-description {
+    margin: 200px 50px;
+    font-size: 20px;
+    color: #fff;
+}
+
+span.MuiButton-label a {
+    color: #fff;
+    text-decoration: none;
+}

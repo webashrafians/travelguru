@@ -1,0 +1,12 @@
+.select-area-style{
+    margin: 100px;
+}
+.select-area-style p{
+    font-size: 20px;
+}
+.select-area-style h1{
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: salmon;
+    text-align: center;
+}

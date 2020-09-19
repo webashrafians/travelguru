@@ -1,0 +1,26 @@
+.room-area{
+    display: flex;
+    margin: 10px;
+    margin-left: 50px;
+    font-family: Montserrat;
+}
+.room-area-rating-price{
+    display: flex;
+    margin: 10px;
+}
+.room-area-rating-price p{
+    margin-right: 10px;
+}
+.room-area p{
+    line-height: 10px;
+    color: gray;
+}
+.room-details{
+    width: 60%;
+}
+.hotel-map{
+    width: 40%;
+}
+.room-description{
+    margin-left: 20px;
+}

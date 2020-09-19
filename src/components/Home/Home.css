@@ -1,0 +1,22 @@
+.main-area{
+    display: flex;
+    background-image: url('../../images/Image/Rectangle\ 1.png');
+    height: 100vh;
+    background-size: 100% 100%;
+    width: 100%;
+}
+.place-description-area{
+    width: 40%;
+}
+.place-image-area{
+    width: 60%;
+    display: flex;
+    margin-top: 100px;
+}
+.tour-place{
+    width: 200px;
+    height: 300px;
+    margin : 10px;
+    border-radius: 20px;
+    text-align: center;
+}
